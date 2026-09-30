@@ -44,7 +44,18 @@ import pandas as pd
 
 # IMPORTING
 
-df = pd.read_csv("xyz.csv")
+# df = pd.read_csv("xyz.csv")
+# df = pd.read_json("xyz.csv")
+
+# selection by column
+
+# print(df["Name"])
+
+# selection by row
+
+# print(df.loc[0])
+
+
 
 
 
